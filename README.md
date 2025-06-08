@@ -9,7 +9,7 @@ You can view the original version by visiting the website, entering postcode **L
 
 ## 🔗 Live Preview
 
-[**Click here to view the live version**](YOUR_DEPLOYED_URL_HERE)
+[**https://waste-skip-page.vercel.app/**](https://waste-skip-page.vercel.app/)
 
 ## 📁 GitHub Repository
 
