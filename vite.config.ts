@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig(() => ({
   server: {
-    allowedHosts: ["6l96yt-5173.csb.app"],
+    allowedHosts: true,
   },
   plugins: [react()],
   resolve: {
